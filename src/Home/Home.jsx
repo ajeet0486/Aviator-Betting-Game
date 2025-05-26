@@ -104,7 +104,7 @@ const Home = () => {
           alignItems: "center", height: "6%", width: "100%"
         }}>
           <div style={{ display: "flex", alignItems: "center", justifyContent: "center", }}><h3>Powered By</h3></div>
-          <div className="companyLogo"></div>
+          
 
         </div>
         <div className="footer">

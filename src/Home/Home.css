@@ -190,15 +190,6 @@
 	width: "100%"
 }
 
-.companyLogo {
-	background-image: url('../../public/goog.png');
-	height: 59px;
-	width: 80px;
-	background-size: contain;
-	background-repeat: no-repeat;
-	margin-top: 3px;
-	margin-left: -5px;
-}
 
 .footer {
 	height: 10%;
